@@ -1,0 +1,19 @@
+{
+  "User": {
+    "FirstName": "Zhenyu",
+    "LastName": "Chen",
+    "Email": "Zhenyu.Chen@mavs.uta.edu",
+    "Password": "1234",
+    "UserType": "1",
+    "Address": {
+      "AddressLine1": "500 Summit Ave",
+      "AddressLine2": "Apt 178",
+      "City": "Arlington",
+      "State": "TX",
+      "ZipCode": "76013",
+      "Lattitude": "ABC",
+      "Longitude": "DEF"
+    },
+    "PhoneNumber": "682-234-0909"
+  }
+}
